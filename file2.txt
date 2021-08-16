@@ -1,1 +1,0 @@
-hello, this is a new text file, created to check the git API pull request.
